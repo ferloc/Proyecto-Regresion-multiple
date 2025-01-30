@@ -14,4 +14,8 @@ La base de datos cuenta con la siguiente información:
 - **“longitud”**. Longitud de cuerda geométrica, en metros. 
 - **“velocidad”**. Velocidad de flujo libre, en metros por segundo. 
 - **“espesor”**. Espesor del desplazamiento en el lado de succión, en metros. 
-- **“presion”**. Nivel escalado de presión sonora, en dB. 
+- **“presion”**. Nivel escalado de presión sonora, en dB.
+  
+- [Reporte en formato HTML](A1.3%20641675.html)
+- [Reporte en formato ipynb](A1.3%20641675.ipynb)
+- [Base de datos](NASA.csv)
